@@ -1,0 +1,30 @@
+body {
+    font-family: Gill Sans;
+}
+
+header {
+    border-radius:25px;
+    background-color: darkblue;
+    padding: 5px;
+}
+
+header a {
+    color:white;
+}
+
+h1 {
+    font-family:Comic Sans Ms;
+    color:darkblue;
+}
+
+footer{
+    background-color:#BDB76B;
+    padding:5px;
+    border-radius:25px;
+}
+
+nav {
+    padding:10px;
+    border-radius:25px;
+    background-color:#DAA520;
+}
